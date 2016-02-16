@@ -1,5 +1,5 @@
 # wdi-sg-notes :palm_tree: :palm_tree: :palm_tree:
-Notes for WDI SG 2
+:octocat: Notes for WDI SG 2 :octocat:
 
 - Answers to class exercises
 
