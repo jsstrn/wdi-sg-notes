@@ -11,3 +11,7 @@ Move multiple files into a folder (if there is a pattern file1.txt file2.txt..)
 Remove contents of a directory, but not the directory itself
 
 `rm my-directory/*` or `rm -rfv my-directory/*`
+
+## Chrome Dev Tools
+
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
